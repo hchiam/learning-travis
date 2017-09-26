@@ -1,0 +1,6 @@
+# automatic testing with Travis CI!
+
+language: js
+
+js:
+  - 5
