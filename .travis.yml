@@ -1,9 +1,10 @@
 # automatic testing with Travis CI!
 
-language: js
+language: python
 
-js:
-  - 5
+python:
+  - 2.7
+  - 3.6
 
 script:
-  - npm test
+  - test.py
