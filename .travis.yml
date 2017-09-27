@@ -6,4 +6,4 @@ js:
   - 5
 
 script:
-  - test
+  - npm test
