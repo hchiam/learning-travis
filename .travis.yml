@@ -5,5 +5,5 @@ language: js
 js:
   - 5
 
-script
+script:
   - test.js
