@@ -2,8 +2,5 @@
 
 language: javascript
 
-before_script:
-  - npm install tape --save-dev
-
 script:
   - node test.js
