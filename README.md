@@ -14,6 +14,7 @@ You can see the automated test run data here: https://travis-ci.org/hchiam/travi
 
 1. Install dependencies:
 ```
+mkdir node_modules
 npm install tape --save-dev
 ```
 2. Run test using Tape:
