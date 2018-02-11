@@ -1,3 +1,5 @@
-function hi() {
-  return 5;
+module.exports = hi;
+
+function hi(name) {
+  return "Hi " + name;
 }
