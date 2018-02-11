@@ -19,5 +19,5 @@ npm install tape --save-dev
 ```
 2. Run test using Tape:
 ```
-node add.test.js
+node test.js
 ```
