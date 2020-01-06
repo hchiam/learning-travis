@@ -21,3 +21,7 @@ npm install tape --save-dev
 ```
 node test.js
 ```
+
+## Example setup to run Selenium on Travis CI
+
+https://github.com/hchiam/selenium-travis
