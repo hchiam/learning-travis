@@ -25,3 +25,11 @@ node test.js
 ## Example setup to run Selenium on Travis CI
 
 https://github.com/hchiam/selenium-travis
+
+Used chrome extension Selenium IDE to create a .side file that gets run in Travis CI.
+
+## Example repo that tests a desktop app on Travis CI
+
+https://github.com/hchiam/anonymous-input
+
+Built with [Electron](https://github.com/hchiam/learning-electron). Tested by using spectron and mocha instead of Selenium IDE.
