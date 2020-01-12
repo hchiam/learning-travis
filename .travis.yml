@@ -10,5 +10,5 @@ script:
 
 notifications:
   email:
-    on_success: change
+    on_success: always
     on_failure: always
