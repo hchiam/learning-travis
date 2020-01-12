@@ -4,9 +4,9 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 This is a minimal example for getting Travis CI to work on a GitHub repo. I chose the [Tape](https://en.wikipedia.org/wiki/Tape_(JavaScript_testing_framework)) framework for testing JavaScript. I like the [minimal setup](https://raygun.com/blog/javascript-unit-testing-frameworks/), especially for my learning purposes. You might also like [an example setup to run Selenium on Travis CI](https://github.com/hchiam/selenium-travis).
 
-[![Build Status](https://travis-ci.org/hchiam/travistest.svg?branch=master)](https://travis-ci.org/hchiam/travistest)
+[![Build Status](https://travis-ci.org/hchiam/learning-travis.svg?branch=master)](https://travis-ci.org/hchiam/learning-travis)
 
-You can see the automated test run data here: https://travis-ci.org/hchiam/travistest
+You can see the automated test run data here: https://travis-ci.org/hchiam/learning-travis
 
 ## To run a test on your own computer:
 
