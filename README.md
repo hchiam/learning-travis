@@ -1,4 +1,4 @@
-# travistest
+# Learning Travis CI
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
@@ -21,6 +21,12 @@ npm install tape --save-dev
 ```
 node test.js
 ```
+
+## Make sure to enable the specific GitHub repo in Travis CI
+
+1. https://travis-ci.org/account/repositories
+2. Search for the relevant GitHub repo
+3. Hit the sliding button so it moves to the right / turns green
 
 ## Example setup to run Selenium on Travis CI
 
