@@ -39,3 +39,7 @@ Used chrome extension Selenium IDE to create a .side file that gets run in Travi
 https://github.com/hchiam/anonymous-input
 
 Built with [Electron](https://github.com/hchiam/learning-electron). Tested by using spectron and mocha instead of Selenium IDE.
+
+## Integrating [`surge`](https://github.com/hchiam/learning-surge) with Travis CI
+
+https://surge.sh/help/integrating-with-travis-ci
