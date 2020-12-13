@@ -51,3 +51,10 @@ https://surge.sh/help/integrating-with-travis-ci
 ## Integrating [`cypress`](https://github.com/hchiam/learning-cypress) with Travis CI
 
 https://docs.cypress.io/guides/guides/continuous-integration.html#Travis
+
+I just needed this 1 thing:
+
+```yml
+before_script:
+  - cypress install # to get Cypress working
+```
