@@ -40,6 +40,10 @@ https://github.com/hchiam/anonymous-input
 
 Built with [Electron](https://github.com/hchiam/learning-electron). Tested by using spectron and mocha instead of Selenium IDE.
 
+## Example repo with (with [`yarn`](https://github.com/hchiam/learning-yarn) and [`surge`](https://github.com/hchiam/learning-surge) and [`cypress`](https://github.com/hchiam/learning-cypress))
+
+https://github.com/hchiam/slides
+
 ## Integrating [`surge`](https://github.com/hchiam/learning-surge) with Travis CI
 
 https://surge.sh/help/integrating-with-travis-ci
