@@ -24,7 +24,7 @@ node test.js
 
 ## Make sure to enable the specific GitHub repo in Travis CI
 
-1. https://travis-ci.org/account/repositories
+1. https://travis-ci.com/account/repositories (was: https://travis-ci.org/account/repositories)
 2. Search for the relevant GitHub repo
 3. Hit the sliding button so it moves to the right / turns green
 
