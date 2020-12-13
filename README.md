@@ -47,3 +47,7 @@ https://github.com/hchiam/slides
 ## Integrating [`surge`](https://github.com/hchiam/learning-surge) with Travis CI
 
 https://surge.sh/help/integrating-with-travis-ci
+
+## Integrating [`cypress`](https://github.com/hchiam/learning-cypress) with Travis CI
+
+https://docs.cypress.io/guides/guides/continuous-integration.html#Travis
