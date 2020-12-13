@@ -52,7 +52,7 @@ https://surge.sh/help/integrating-with-travis-ci
 
 https://docs.cypress.io/guides/guides/continuous-integration.html#Travis
 
-I just needed this 1 thing:
+I just needed this 1 thing: (Apparently I didn't need to keep `libgconf-2-4` nor the `~/.cache`.)
 
 ```yml
 before_script:
