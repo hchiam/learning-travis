@@ -44,6 +44,10 @@ Built with [Electron](https://github.com/hchiam/learning-electron). Tested by us
 
 https://github.com/hchiam/slides
 
+## Example repo with Lighthouse CI
+
+https://github.com/hchiam/learning-lighthouse-ci
+
 ## Integrating [`surge`](https://github.com/hchiam/learning-surge) with Travis CI
 
 https://surge.sh/help/integrating-with-travis-ci
